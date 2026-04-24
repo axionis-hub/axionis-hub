@@ -31,3 +31,32 @@ Our approach combines **engineering discipline** with
 </td>
 </tr>
 </table>
+
+## ⚙ Infrastructure
+
+<table>
+<tr>
+
+<td width="45%">
+  <img src="https://raw.githubusercontent.com/axionis-hub/logo/main/Infrastructure.png" width="100%" style="border-radius:12px;" />
+</td>
+
+<td width="55%">
+
+Axionis operates production-grade validator infrastructure
+designed for stability, performance, and long-term network participation.
+
+We focus on:
+
+* high-availability systems
+* dedicated and bare-metal environments
+* optimized network routing
+* multi-region deployment
+
+Infrastructure is not an addition —
+it is the **foundation of the system**.
+
+</td>
+
+</tr>
+</table>
