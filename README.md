@@ -84,7 +84,7 @@ to ensure validator integrity and network safety.
 </td>
 
 <td width="45%">
-  <img src="https://raw.githubusercontent.com/axionis-hub/logo/main/security_.png" width="100%" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/axionis-hub/logo/main/security.png" width="100%" style="border-radius:12px;" />
 </td>
 
 </tr>
