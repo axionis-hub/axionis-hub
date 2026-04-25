@@ -96,7 +96,7 @@ to ensure validator integrity and network safety.
 <tr>
 
 <td width="45%">
-  <img src="https://raw.githubusercontent.com/axionis-hub/logo/main/monitoring.png" width="100%" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/axionis-hub/logo/main/monitor.png" width="100%" style="border-radius:12px;" />
 </td>
 
 <td width="55%">
