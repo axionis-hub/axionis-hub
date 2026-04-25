@@ -28,7 +28,7 @@ Our approach combines **engineering discipline** with
 </td>
 
 <td width="45%">
-<img src="https://raw.githubusercontent.com/axionis-hub/logo/main/team.png" width="100% style="border-radius:12px; opacity:0.95;" />
+<img src="https://raw.githubusercontent.com/axionis-hub/logo/main/team_.png" width="100% style="border-radius:12px; opacity:0.95;" />
 </td>
 </tr>
 </table>
